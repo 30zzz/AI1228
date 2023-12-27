@@ -47,4 +47,20 @@
 
 <img width="482" alt="2" src="https://github.com/30zzz/AI1228/assets/113405753/fc43de4a-9ebb-438b-9a01-b94618695c5a">
 
+## 7 預言
+
+經過訓練的模型現在能夠對驗證集中的 5 組值進行預測。
+
+<img width="483" alt="3" src="https://github.com/30zzz/AI1228/assets/113405753/d227dfb1-c7dc-42ec-92c2-577a01c5bb67">
+
+<img width="449" alt="4" src="https://github.com/30zzz/AI1228/assets/113405753/4ac081d0-7868-44be-a350-eab05eddc7c2">
+
+<img width="461" alt="5" src="https://github.com/30zzz/AI1228/assets/113405753/b37da828-b2bd-42d4-8b18-886b7c83cc80">
+
+<img width="463" alt="6" src="https://github.com/30zzz/AI1228/assets/113405753/b655071d-b281-4797-9267-7e6ee3c1b991">
+
+<img width="448" alt="7" src="https://github.com/30zzz/AI1228/assets/113405753/374ca40d-003a-404f-8636-8fd4405d4e45">
+
+
+<img width="428" alt="8" src="https://github.com/30zzz/AI1228/assets/113405753/3aa361d2-9cc7-4191-9b58-fd0f693174e4">
 
