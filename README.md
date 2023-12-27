@@ -26,3 +26,25 @@
 <img width="308" alt="5" src="https://github.com/30zzz/AI1228/assets/113405753/eb60ba7e-1553-4527-9342-1dbccc57b62c">
 
 <img width="409" alt="6" src="https://github.com/30zzz/AI1228/assets/113405753/7d422d3e-fc85-4dde-9b5d-c7e1e4d46af2">
+
+## 4 訓練資料集
+
+此timeseries_dataset_from_array函數接受以相等間隔收集的資料點序列以及時間序列參數（例如序列/視窗的長度、兩個序列/視窗之間的間距等），以產生批次的子時間序列輸入和取樣目標從主要時間序列來看。
+
+<img width="288" alt="7" src="https://github.com/30zzz/AI1228/assets/113405753/fe62cbfe-a281-44d3-9525-7c48f4909fe8">
+
+<img width="374" alt="8" src="https://github.com/30zzz/AI1228/assets/113405753/63730537-d6c4-4e14-9f00-50c14dbadb6d">
+
+## 5 驗證資料集
+
+<img width="350" alt="999" src="https://github.com/30zzz/AI1228/assets/113405753/50154729-1e96-4983-8774-27b8e4155b14">
+
+## 6 訓練
+
+可以使用下面的函數將損失視覺化。一分之後，損失停止減少。
+
+<img width="332" alt="1" src="https://github.com/30zzz/AI1228/assets/113405753/f4d93168-3a83-4c4d-9460-740c419d3e3f">
+
+<img width="482" alt="2" src="https://github.com/30zzz/AI1228/assets/113405753/fc43de4a-9ebb-438b-9a01-b94618695c5a">
+
+
