@@ -16,3 +16,9 @@
 <img width="508" alt="3" src="https://github.com/30zzz/AI1228/assets/113405753/d1b460fb-61da-4721-9276-2c4c2edac535">
 
 <img width="512" alt="4" src="https://github.com/30zzz/AI1228/assets/113405753/b5c83d40-af8a-4481-9cda-da84b2b77d19">
+
+## 3 資料預處理
+
+<img width="308" alt="5" src="https://github.com/30zzz/AI1228/assets/113405753/eb60ba7e-1553-4527-9342-1dbccc57b62c">
+
+<img width="409" alt="6" src="https://github.com/30zzz/AI1228/assets/113405753/7d422d3e-fc85-4dde-9b5d-c7e1e4d46af2">
