@@ -6,3 +6,4 @@
 ●馬克斯普朗克生物地球化學研究所記錄的耶拿氣候資料集
 ## 實際操作
 設定
+<img width="212" alt="1" src="https://github.com/30zzz/AI1228/assets/113405753/bade69d0-d9ff-4fd7-9e05-a216e9fd228f">
