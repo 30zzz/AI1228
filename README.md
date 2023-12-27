@@ -9,6 +9,7 @@
 <img width="212" alt="1" src="https://github.com/30zzz/AI1228/assets/113405753/bade69d0-d9ff-4fd7-9e05-a216e9fd228f">
 
 <img width="520" alt="2" src="https://github.com/30zzz/AI1228/assets/113405753/c0182065-0e37-4c48-9080-8d3791bf1d04">
+
 ●數據可視化
 <img width="508" alt="3" src="https://github.com/30zzz/AI1228/assets/113405753/d1b460fb-61da-4721-9276-2c4c2edac535">
 
